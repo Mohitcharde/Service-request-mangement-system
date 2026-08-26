@@ -8,9 +8,9 @@ The application allows employees to submit, track, search, filter, and manage se
 
 ## 🚀 Live Demo
 
-🌐 **Live Application:** [Click Here](YOUR_DEPLOYED_APPLICATION_LINK)
+🌐 **Live Application:** [Click Here](https://service-request-mangement-system.vercel.app)
 
-💻 **GitHub Repository:** [Service Request Management System](YOUR_GITHUB_REPOSITORY_LINK)
+💻 **GitHub Repository:** [Service Request Management System](https://github.com/Mohitcharde/Service-request-mangement-system)
 
 > Replace the links above with your actual deployed application and GitHub repository links.
 
